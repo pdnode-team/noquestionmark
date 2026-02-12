@@ -1,8 +1,8 @@
-# No Hello
+# No Question Mark
 
-Hello!
+This project is a fork of nohello.net, with only some modifications.
 
-https://nohello.net/
+The project is released under the MIT license.
 
 ## Translators
 
